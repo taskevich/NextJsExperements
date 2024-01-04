@@ -1,0 +1,5 @@
+{
+  "out": "./src/app/db/drizzle",
+  "schema": "./src/app/db/models.js",
+  "breakpoints": true
+}
